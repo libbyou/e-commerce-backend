@@ -23,6 +23,12 @@
 
   After installation, type in 'node index.js' in your command-line. Through Insomnia, Thunderclient, or any similar application, test out the different routes by using the different CRUD operations.
 
+  
+
+https://github.com/libbyou/e-commerce-backend/assets/144481823/82992505-242e-4ee4-878a-109cf391c998
+
+
+
   ## Contributing
 
   All are welcome to contribute! Before contributing, please fork the repo, create a local branch, and create a pull request for any changes you'd like to make. Following a code review, your code will be merged.
